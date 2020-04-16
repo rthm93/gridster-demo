@@ -89,8 +89,8 @@ export class AppComponent implements OnInit {
         };
 
         this.dashboard = [
-            { cols: 1, rows: 1, y: 0, x: 0 },
-            { cols: 1, rows: 1, y: 0, x: 2 },
+            { cols: 2, rows: 1, y: 0, x: 0 },
+            { cols: 1, rows: 2, y: 0, x: 2 },
         ];
 
         this.widgets = [
