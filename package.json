@@ -8,7 +8,7 @@
         "test": "ng test",
         "lint": "ng lint",
         "e2e": "ng e2e",
-        "build:github": "ng build --prod --baseHref=\"https://rthm93.github.io/gridster-demo/\" --outputPath=\"doc\""
+        "build:github": "ng build --prod --baseHref=\"https://rthm93.github.io/gridster-demo/\" --outputPath=\"docs\""
     },
     "private": true,
     "dependencies": {
